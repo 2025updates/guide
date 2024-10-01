@@ -1,1 +1,2 @@
 /en/* /?en/:splat 301
+/:lang/:name /?:code/:name 301
